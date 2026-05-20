@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "l6dubH4xAxc=",
+  "success": true,
+  "projectFilePath": "D:\\JimFiles\\React\\Revora\\server\\Revora\\Revora.Application\\Revora.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Camangon\\.nuget\\packages\\fluentvalidation\\12.1.1\\fluentvalidation.12.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
